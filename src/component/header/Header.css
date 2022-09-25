@@ -1,0 +1,21 @@
+.header_wrp {
+    position: absolute;
+width: 183px;
+height: 41px;
+left: 72px;
+top: 20px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 119.2%;
+/* or 33px */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.06em;
+
+color: #3377FF;
+
+}
